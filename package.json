@@ -18,7 +18,7 @@
   "dependencies": {
     "canvas": "^2.5.0",
     "jsdom": "^15.1.1",
-    "paper": "ezioda004/paper.js#patch-2",
+    "paper": "ezioda004/paper.js#master",
     "source-map-support": "^0.5.12"
   },
   "keywords": ["vector", "graphic", "graphics", "2d", "geometry", "bezier", "curve", "curves", "path", "paths", "canvas", "svg", "paper", "paper.js", "paperjs"]
